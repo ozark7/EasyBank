@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GFnWUo4PU/Zb0tpLRqq79deg4FSz1UjB4Y+E6NPOknPf90vudx5u1oPh0ff0Feo+d3bVZJz4kZSmF5B81OiGkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\Downloads\\Telegram Desktop\\Banco_D1\\Banco_D1\\Datos\\Datos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

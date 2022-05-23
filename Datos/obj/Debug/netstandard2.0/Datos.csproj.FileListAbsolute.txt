@@ -1,0 +1,38 @@
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Datos\bin\Debug\netstandard2.0\Datos.dll
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Datos\bin\Debug\netstandard2.0\Datos.pdb
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Datos\bin\Debug\netstandard2.0\Entidades.dll
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Datos\bin\Debug\netstandard2.0\Entidades.pdb
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.csproj.CoreCompileInputs.cache
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.dll
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.pdb
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Datos\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Datos\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Datos\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Datos\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.csproj.AssemblyReference.cache
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.dll
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.pdb
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Datos\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Datos\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Datos\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Datos\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.dll
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Datos\obj\Debug\netstandard2.0\Datos.pdb

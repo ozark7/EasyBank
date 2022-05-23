@@ -1,0 +1,44 @@
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\bin\Debug\Presentacion.exe.config
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\bin\Debug\Presentacion.exe
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\bin\Debug\Presentacion.pdb
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\bin\Debug\Entidades.dll
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\bin\Debug\Logica.dll
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\bin\Debug\Datos.dll
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\bin\Debug\Entidades.pdb
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\bin\Debug\Logica.pdb
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\bin\Debug\Datos.pdb
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\obj\Debug\Presentacion.exe
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\material programacion 3\Proyectos\G03\Banco_D1\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\bin\Debug\Entidades.dll
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\bin\Debug\Logica.dll
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\bin\Debug\Datos.dll
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\bin\Debug\Logica.pdb
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\bin\Debug\Datos.pdb
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\rexyl\OneDrive\Escritorio\Banco_D1\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\bin\Debug\Entidades.dll
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\bin\Debug\Logica.dll
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\bin\Debug\Datos.dll
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\bin\Debug\Logica.pdb
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\bin\Debug\Datos.pdb
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\usuario\Downloads\Telegram Desktop\Banco_D1\Banco_D1\Presentacion\obj\Debug\Presentacion.pdb
